@@ -14,8 +14,7 @@ import { PipesModule } from './pipes/pipes.module';
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
   imports: [
-    RouterOutlet, HttpClientModule,
-    PipesModule,
+    RouterOutlet, HttpClientModule, PipesModule,
     //app/components
     CastSlideShowComponent, 
     MoviesPosterComponent, 
