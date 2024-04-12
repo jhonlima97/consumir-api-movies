@@ -1,0 +1,22 @@
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <a class="navbar-brand cursor" routerLink="/home">
+    <i class="fas fa-film"></i>&nbsp;&nbsp;<b>MOVIES.NET</b>&nbsp;
+    <i class="fa-solid fa-video"></i></a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+    data-bs-target="#navbarSupportedContent" aria-bs-controls="navbarSupportedContent" 
+    aria-bs-expanded="false" aria-bs-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse justify-content-between" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto"></ul>
+    <div class="form-inline d-flex">
+      <input #txtBuscar class="form-control mr-sm-2" type="search" 
+        (keyup.enter)="searchPelicula(txtBuscar.value)" placeholder="Buscar pelicula">
+      <button class="btn btn-success" type="submit" 
+        (click)="searchPelicula(txtBuscar.value)">Buscar</button>
+
+      </div>
+  </div>
+
+</nav>

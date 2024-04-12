@@ -1,0 +1,21 @@
+.scroll-to-top{
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    opacity: 0;
+    transition: all .2s ease-in-out;
+  
+
+}
+
+.show-scrollTop{
+    opacity: 1;
+    transition: all .2s ease-in-out;
+    background-color: rgb(13, 117, 221);
+    z-index: 1;
+}
+
+.active {
+    color: white !important;
+    font-weight: bolder;
+}

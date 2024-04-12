@@ -1,27 +1,23 @@
-# Moviesapp
+# Moviesapp  
+Para abrir la app, ejecuta `ng serve` y por defecto se cargara en el puerto 👉 `http://localhost:4200/`.     
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
+## Tecnologías usadas
 
-## Development server
+✅ Angular CLI version 17.1.0  
+✅ Node JS version 20.5.0  
+✅ TypeScript version 5.3.2    
+✅ npm version 9.8.0  
+✅ swiper version 11.1.1    
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Para Producción  
+Ejecuta `ng build` en tu terminal. Esto creará la carpeta `dist/` dentro de tu proyecto.
 
-## Code scaffolding
+## API UTILIZADA  
+Se uso la API [TMDB](https://developer.themoviedb.org/reference/intro/getting-started).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Desarrollador
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+✅ FullStack Developer [LinkedIn](https://www.linkedin.com/in/jhon-wayler-lima-camizan-157089124/).
+✅ Contactame vía [Gmail](jwlimita08.997@gmail.com)   
+✅ Sigueme en [ X ](https://twitter.com/jhon_camizan)  
+✅ Sigueme en [Github](https://github.com/jhonlima97/)    
