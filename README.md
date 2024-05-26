@@ -19,5 +19,5 @@ Se uso la API [TMDB](https://developer.themoviedb.org/reference/intro/getting-st
 
 ✅ FullStack Developer [LinkedIn](https://www.linkedin.com/in/jhon-wayler-lima-camizan-157089124/).
 ✅ Contactame vía [Gmail](jwlimita08.997@gmail.com)   
-✅ Sigueme en [ X ](https://twitter.com/jhon_camizan)  
+✅ Sigueme en [ X ](https://x.com/jhon_camizan)  
 ✅ Sigueme en [Github](https://github.com/jhonlima97/)    
