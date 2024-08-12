@@ -15,7 +15,6 @@ import { PipesModule } from './pipes/pipes.module';
   styleUrl: './app.component.css',
   imports: [
     RouterOutlet, HttpClientModule, PipesModule,
-    //app/components
     CastSlideShowComponent, 
     MoviesPosterComponent, 
     NavbarComponent, 
@@ -24,5 +23,5 @@ import { PipesModule } from './pipes/pipes.module';
 
 })
 export class AppComponent {
-  title = 'MOVIES.NET';
+  
 }
